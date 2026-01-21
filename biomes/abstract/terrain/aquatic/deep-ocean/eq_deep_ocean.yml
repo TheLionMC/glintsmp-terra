@@ -8,10 +8,10 @@ terrain:
   sampler:
     dimensions: 3
     type: LINEAR_HEIGHTMAP
-    base: 20
+    base: -10
   sampler-2d:
     dimensions: 2
     type: EXPRESSION
     variables:
-      height: 30
+      height: 20
     expression: "|simplex(x/2, z/2)| * height"
