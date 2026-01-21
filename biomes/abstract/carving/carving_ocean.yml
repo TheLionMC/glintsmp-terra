@@ -9,7 +9,7 @@ carving:
     variables:
       "<<":
         - biomes/abstract/carving/carving_land.yml:carving.sampler.variables
-      carvingMaxHeight: 20
+      carvingMaxHeight: 0
 
     expression: $biomes/abstract/carving/carving_land.yml:carving.sampler.expression
     samplers: $biomes/abstract/carving/carving_land.yml:carving.sampler.samplers

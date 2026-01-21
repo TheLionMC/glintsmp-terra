@@ -9,7 +9,7 @@ terrain:
   sampler:
     dimensions: 3
     type: LINEAR_HEIGHTMAP
-    base: 40
+    base: 20
   sampler-2d:
     dimensions: 2
     type: EXPRESSION
