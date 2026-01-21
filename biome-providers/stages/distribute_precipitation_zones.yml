@@ -222,11 +222,11 @@ stages:
         # -------------
         # Mountains Boreal Semi-Humid
         # -------------
-        - SNOWY_ERODED_TERRACED_MOUNTAINS: 1
+        # - SNOWY_ERODED_TERRACED_MOUNTAINS: 1
         # -------------
         # Mountains Boreal Semi-Arid
         # -------------
-        - MOUNTAINS: 3
+        - MOUNTAINS: 4
 
     # --------------------------------------------
     #            Large Mountains Biomes

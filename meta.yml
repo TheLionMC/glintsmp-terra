@@ -29,7 +29,7 @@ biome-distribution:
   # generate together.
   # Default: 50
   
-  elevation-scale: 35
+  elevation-scale: 50
   # Controls the scale of elevation zones. Most land biomes belong to
   # an elevation zone, in addition to temperature and precipitation. How far apart / close
   # together these elevation zones are is determined by this parameter. If you want more
@@ -76,7 +76,7 @@ biome-distribution:
   # How large any given mushroom island will be.
   # Default: 4
   
-  global-scale: 2
+  global-scale: 1.5
   # Modifies the scale of everything, you can use this parameter to if you
   # want just about every biome to be larger or smaller.
   # By doubling the scale, you double the length & width of everything,

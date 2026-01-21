@@ -144,12 +144,10 @@ stages:
         - BEACH: 3
       
       coast-hills-small-boreal:
-        - ROCKY_WETLANDS: 1
-        - ROCKY_ARCHIPELAGO: 1
+        - ROCKY_ARCHIPELAGO: 2
       
       coast-hills-large-boreal:
-        - ROCKY_WETLANDS: 1
-        - ROCKY_ARCHIPELAGO: 1
+        - ROCKY_ARCHIPELAGO: 2
       
       coast-mountains-small-boreal:
         - ROCKY_SEA_CAVES: 1
@@ -203,8 +201,7 @@ stages:
         - TUNDRA_HILLS: 1
       
       mountains-small-polar:
-        - SNOWY_MOUNTAINS: 1
-        - SNOWY_ERODED_TERRACED_MOUNTAINS: 1
+        - SNOWY_MOUNTAINS: 2
       
       mountains-large-polar:
         - SNOWY_TERRACED_MOUNTAINS: 1

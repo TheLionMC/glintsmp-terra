@@ -58,6 +58,5 @@ stages:
       - MUSHROOM_FIELDS: 1
     to:
       mushroom-coast:
-        - MUSHROOM_COAST: 1
-        - ROCKY_WETLANDS: 2
+        - MUSHROOM_COAST: 3
     sampler: $biome-providers/stages/add_mushroom_islands.yml:variation-sampler

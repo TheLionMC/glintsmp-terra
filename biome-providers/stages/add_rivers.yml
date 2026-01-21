@@ -36,9 +36,6 @@ stages:
       SNOWY_TERRACED_MOUNTAINS:
         - SELF: 1
         - SNOWY_TERRACED_MOUNTAINS_RIVER: 1
-      SNOWY_ERODED_TERRACED_MOUNTAINS:
-        - SELF: 1
-        - SNOWY_ERODED_TERRACED_MOUNTAINS_RIVER: 1
     sampler: *riverSampler
   # Regular rivers with temperate marshes
   - type: REPLACE
