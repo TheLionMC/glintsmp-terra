@@ -30,3 +30,5 @@ slant:
 features:
   flora:
     - GRASS
+  trees:
+    - TEMPERATE_TREES

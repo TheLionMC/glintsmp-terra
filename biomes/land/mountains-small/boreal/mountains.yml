@@ -11,7 +11,7 @@ tags:
 colors:
   grass: 0x8ab689
   foliage: 0x6da36b
-  water: 0x007bf7
+  water: 0x3F76E4
   water-fog: 0x007bf7
 
 palette:
@@ -29,10 +29,3 @@ slant:
 features:
   landforms:
     - BOULDERS
-  flora:
-    - POPPY_PATCH
-    - DANDELION_PATCH
-    - GRASS
-    - FERNS
-  trees:
-    - SPRUCE_TREE_PATCHES

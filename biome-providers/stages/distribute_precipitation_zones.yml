@@ -258,13 +258,9 @@ stages:
 
       mountains-large-temperate:
         # -------------
-        # Large Mountains Temperate Semi-Humid
-        # -------------
-        - TEMPERATE_ALPHA_MOUNTAINS: 2
-        # -------------
         # Large Mountains Temperate Semi-Arid
         # -------------
-        - DRY_TEMPERATE_MOUNTAINS: 5
+        - DRY_TEMPERATE_MOUNTAINS: 7
 
       mountains-large-boreal:
         # -------------
